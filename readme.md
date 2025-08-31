@@ -7,7 +7,7 @@
 
 ![alt text](<screenshots/Screenshot 2025-08-31 at 13.42.00 (2).jpg>)
 ![alt text](<screenshots/Screenshot 2025-08-31 at 13.41.29.png>)
-## Motivation:
+
 
 
 ## 3D model:
